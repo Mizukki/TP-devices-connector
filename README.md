@@ -4,7 +4,7 @@ Install mongodb
 
 ## Installation
 ```sh
-git clone
+git clone https://github.com/Mizukki/TP-devices-connector.git
 cd TP-devices-connector
 npm install
 ```
