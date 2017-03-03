@@ -5,7 +5,7 @@ Install mongodb
 ## Installation
 ```sh
 git clone
-cd library-api
+cd TP-devices-connector
 npm install
 ```
 ## Launch
